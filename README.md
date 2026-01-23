@@ -3,13 +3,7 @@
 ## 🧑‍💻 About Me
 
 
-        ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhsanVakili&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EhsanVakili&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanVakili&layout=compact&theme=tokyonight)
 
 ```python
 class EhsanVakili:
@@ -41,3 +35,13 @@ class EhsanVakili:
     def career_goal(self):
         return "Create data-driven financial solutions using programming and finance"
 
+
+```
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhsanVakili&show_icons=true&theme=tokyonight)
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanVakili&layout=compact&theme=tokyonight)
