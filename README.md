@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Ehsan Vakili
 
-<!--
-**EhsanVakili/EhsanVakili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+```python
+class EhsanVakili:
+    def __init__(self):
+        self.name = "Ehsan Vakili"
+        self.age = 25
+        self.location = "Iran"
+        
+        self.education = {
+            "BSc": "Computer Engineering",
+            "MSc": "Financial Management (Student)",
+            "MBA": "Master of Business Administration"
+        }
+        
+        self.skills = {
+            "programming_languages": ["Python", "JavaScript"],
+            "web": ["HTML", "CSS"],
+            "frameworks": ["Various JS & Python Frameworks"],
+            "domains": ["FinTech", "Financial Analysis", "Automation"]
+        }
+        
+        self.interests = [
+            "Combining Finance with Programming",
+            "Financial Data Analysis",
+            "Algorithmic & Quantitative Finance",
+            "Building Smart Financial Systems"
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def career_goal(self):
+        return "Create data-driven financial solutions using programming and finance"
