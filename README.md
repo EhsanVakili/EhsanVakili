@@ -21,7 +21,7 @@ self.education = {
 }
 
 self.skills = {
-"programming_languages": ["Python", "JavaScript", "Java", "R"],
+"programming_languages": ["Python", "JavaScript",  "R"],
 "web": ["HTML", "CSS", "Bootstrap"],
 "databases": ["MySQL"],
 "domains": ["FinTech", "Financial Analysis", "Automation", "Econometrics"]
